@@ -1,7 +1,8 @@
-package com.estyle.teabaike
+package com.estyle.teabaike.activity
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.estyle.teabaike.R
 
 class MainActivity : AppCompatActivity() {
 
